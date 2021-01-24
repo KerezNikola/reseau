@@ -1,0 +1,21 @@
+[19-Apr-2018 02:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Testemonial::testemonialID() in C:\wamp\www\reseau\1\model\testemonial.php:29
+Stack trace:
+#0 C:\wamp\www\reseau\1\controller\kontroler.php(16): Testemonial::getAll(Object(mysqli))
+#1 {main}
+  thrown in C:\wamp\www\reseau\1\model\testemonial.php on line 29
+[19-Apr-2018 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function save() in C:\wamp\www\reseau\1\controller\kontroler.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\1\controller\kontroler.php on line 37
+[19-Apr-2018 03:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function save() in C:\wamp\www\reseau\1\controller\kontroler.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\1\controller\kontroler.php on line 37
+[19-Apr-2018 03:00:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function save() in C:\wamp\www\reseau\1\controller\kontroler.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\1\controller\kontroler.php on line 37
+[19-Apr-2018 03:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Usluga::setUsluga() in C:\wamp\www\reseau\1\controller\kontroler.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\1\controller\kontroler.php on line 35

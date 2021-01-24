@@ -1,0 +1,41 @@
+[19-Apr-2018 03:37:50 UTC] PHP Warning:  include(mode/testemonial.php): failed to open stream: No such file or directory in C:\wamp\www\reseau\1\administracija.php on line 3
+[19-Apr-2018 03:37:50 UTC] PHP Warning:  include(): Failed opening 'mode/testemonial.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\reseau\1\administracija.php on line 3
+[19-Apr-2018 03:37:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Testemonial' not found in C:\wamp\www\reseau\1\administracija.php:90
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\1\administracija.php on line 90
+[19-Apr-2018 04:12:32 UTC] PHP Notice:  Undefined variable: podaci in C:\wamp\www\reseau\3\administracija.php on line 94
+[19-Apr-2018 04:12:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\reseau\3\administracija.php on line 94
+[19-Apr-2018 04:13:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\wamp\www\reseau\3\administracija.php:99
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\3\administracija.php on line 99
+[19-Apr-2018 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\wamp\www\reseau\3\administracija.php:100
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\3\administracija.php on line 100
+[19-Apr-2018 04:14:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\wamp\www\reseau\3\administracija.php:100
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\reseau\3\administracija.php on line 100
+[19-Apr-2018 04:47:40 UTC] PHP Notice:  Undefined variable: poruka in C:\wamp\www\reseau\seminarski\login.php on line 60
+[19-Apr-2018 04:49:24 UTC] PHP Notice:  Undefined variable: poruka in C:\wamp\www\reseau\seminarski\login.php on line 60
+[19-Apr-2018 04:50:28 UTC] PHP Notice:  Undefined variable: poruka in C:\wamp\www\reseau\seminarski\login.php on line 58
+[19-Apr-2018 05:04:34 UTC] PHP Notice:  Undefined index: user in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:04:34 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:04:36 UTC] PHP Notice:  Undefined index: user in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:04:36 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:05:10 UTC] PHP Notice:  Undefined index: user in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:05:10 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:05:13 UTC] PHP Notice:  Undefined index: user in C:\wamp\www\reseau\seminarski\header.php on line 23
+[19-Apr-2018 05:05:13 UTC] PHP Notice:  Trying to get property of non-object in C:\wamp\www\reseau\seminarski\header.php on line 23
+[09-Nov-2020 13:19:41 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\Domaci\seminarski\administracija.php on line 98
+[23-Jan-2021 14:58:04 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 16:31:59 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 16:33:20 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 16:33:25 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 16:34:37 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 17:06:56 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 17:13:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[23-Jan-2021 17:17:17 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
+[24-Jan-2021 12:09:26 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ItehSeminarski\seminarski\administracija.php on line 98
